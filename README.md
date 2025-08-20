@@ -3,7 +3,7 @@
 A modern, responsive, and visually attractive user authentication platform built with React, CSS, and modern web technologies. Create accounts, login securely, and manage profiles with a beautiful UI!
 
 ## 🚀 Demo
-Play it live: [Coming Soon]
+Play it live: [Click me](https://bsb-educaseassignment.netlify.app/)
 
 ## ✨ Features
 - Responsive design for desktop and mobile
@@ -27,7 +27,7 @@ Play it live: [Coming Soon]
 ## 🛠️ Setup & Run Locally
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   https://github.com/Baljender-Singh-Bamrah/Educase-Assignment
    cd educase-india-assessment
    ```
 2. **Install dependencies:**
