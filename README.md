@@ -21,8 +21,6 @@ Play it live: [Click me](https://bsb-educaseassignment.netlify.app/)
 - 🛣️ **React Router DOM**
 - 🔧 **ESLint**
 
-## 🖼️ Preview
-![App Screenshot](coming-soon.png)
 
 ## 🛠️ Setup & Run Locally
 1. **Clone the repository:**
